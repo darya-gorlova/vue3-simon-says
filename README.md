@@ -1,4 +1,4 @@
-# final-simon-says
+# Simon Says Game with vue3 composition API and HTML/CSS/JS
 
 ## Project setup
 ```
